@@ -9,4 +9,8 @@ public class Utility {
 		System.out.println("mownika");
 	}
 
+
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
 }
